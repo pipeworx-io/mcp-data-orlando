@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-orlando",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Orlando Open Data (data.cityoforlando.net) Socrata MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-363c5e00648696e794bd87a97b4cbc60793c7d0fae8997f147d9a6e816c89737",
-    "sourceCommit": "839ab210d969ef7f822cd747ea516f6bb49e9231"
+    "sourceHash": "v1-d883279fb1c036e4da5b7e01358008b8c5e1f011ffce603ad13ba08f8411ec95",
+    "sourceCommit": "56d3c46c09bb3078ffdbdbca992a93f406bcd382"
   }
 }
