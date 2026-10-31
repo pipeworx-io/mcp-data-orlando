@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-orlando",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Orlando Open Data (data.cityoforlando.net) Socrata MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "data-orlando",
     "gatewaySlug": "data-orlando",
-    "sourceHash": "v1-caf48f21d1c3248a5c233dc2efe0b458b560c0f704d4c96a28911175c70aaba8",
-    "sourceCommit": "0b3faaa4d85299a961dd86dea75a0f0e1dad280c"
+    "sourceHash": "v1-234a28224380cadca8f97df797124c05e2b884da1f9b2712bce3687720132995",
+    "sourceCommit": "5ce1a05186d46479e23865c66bdb8579d8de445e"
   }
 }
